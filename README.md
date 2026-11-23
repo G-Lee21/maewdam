@@ -1,3 +1,6 @@
+> **ย้ายไปแล้ว · ดาวน์โหลดรุ่นใหม่ที่ [github.com/G-Lee21/glee-download-extra](https://github.com/G-Lee21/glee-download-extra)**  
+> **Moved · Download the latest version at [github.com/G-Lee21/glee-download-extra](https://github.com/G-Lee21/glee-download-extra)**
+
 # แมวดำมาเย้ย · MaewDam
 
 **ไทย** — แอป Android โหลดวิดีโอ เพลง และรูป จากลิงก์ที่คุณเปิดดูได้ ค้นหาคลิป แชร์ลิงก์จากแอปอื่นแล้วกด "โหลดด่วน" ไฟล์เก็บในแฟ้ม Download/MaewDam ไม่มีโฆษณา ไม่ต้องสมัครสมาชิก
